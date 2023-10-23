@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.Stack;
 public class task3
 {
-    public static void zad_3_var_3()
+    public static void zad_3_var_9()
     {
         String s;
         Scanner scan=new Scanner(System.in);
