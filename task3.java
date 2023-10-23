@@ -1,7 +1,4 @@
-
-
-import java.util.Scanner;
-import java.util.Stack;
+import java.util.*;
 public class task3
 {
     public static void zad_3_var_10()
